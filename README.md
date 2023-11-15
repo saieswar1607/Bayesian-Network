@@ -33,10 +33,7 @@ Generate the graph using networkx<br/>
 Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-```
-Developed By : Sai Eswar Kandukuri
-Ref.No : 21222124000
-```
+
 ```
 !pip install pybbn
 
